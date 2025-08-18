@@ -2,11 +2,29 @@
 
 Welcome to my personal portfolio website! This project showcases my skills and the projects I've worked on. What makes this portfolio unique is that it's built from the ground up **without using React**. Instead, it's powered by **Jarvis**, a custom React-like library I created to understand the core mechanics of modern web frameworks.
 
+![42 School](https://img.shields.io/badge/42%20School-Paris-blue?style=for-the-badge&logo=42-school)
+![1337](https://img.shields.io/badge/1337-42%20School-green?style=for-the-badge&logo=1337)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-4.0-blue?style=for-the-badge&logo=typescript)
+![JSX](https://img.shields.io/badge/JSX-React-blue?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/React-17.0.2-blue?style=for-the-badge&logo=react)
+![NPM](https://img.shields.io/badge/NPM-6.14.8-red?style=for-the-badge&logo=npm)
+![Webpack](https://img.shields.io/badge/Webpack-5.64.4-blue?style=for-the-badge&logo=webpack)
+![Babel](https://img.shields.io/badge/Babel-7.14.5-orange?style=for-the-badge&logo=babel)
+![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-2.0.0-lightgrey?style=for-the-badge&logo=github)
+![Node.js](https://img.shields.io/badge/Node.js-14.17.0-green?style=for-the-badge&logo=node.js)
+![CSS](https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3)
+![HTML](https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5)
+![Git](https://img.shields.io/badge/Git-2.30.1-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-2.30.1-lightgrey?style=for-the-badge&logo=github)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 ## Table of Contents
 - [Live Demo](#live-demo)
 - [Technology and Architecture](#technology-and-architecture)
 - [Project Scripts](#project-scripts)
 - [Deployment Workflow](#deployment-workflow)
+- [Author](#author)
 
 ## Live Demo
 
@@ -55,3 +73,6 @@ The project's workflow is managed by a set of simple yet powerful NPM scripts, s
 This project is configured for a simple and highly efficient deployment process to **GitHub Pages**.
 
 The entire workflow is handled by the `npm run deploy` command. After an initial one-time setup of the `"homepage"` field in `package.json` and configuring the repository settings on GitHub, deploying any future updates is as simple as running that single command. This automated process eliminates manual steps and ensures consistent, error-free deployments.
+
+## Author
+**© Anas Chahid ksabi **@KsDev**** - [achahid19](https://github.com/achahid19)
